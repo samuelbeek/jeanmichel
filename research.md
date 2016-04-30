@@ -30,6 +30,7 @@ I'm making a moderate list of podcasts to start with. I might wanna scrape Reddi
 * [Quicks and Quarks](http://www.cbc.ca/radio/quirks)
 * [RadioLab](http://www.radiolab.org)
 * [Science Friday](http://www.sciencefriday.com/path/audio/index.html)
+* [Invisiblia](https://en.wikipedia.org/wiki/Mystery_Show)
 
 #### Design Podcasts
 maybe add art here too.
@@ -41,6 +42,7 @@ maybe add art here too.
 #### Stories
 * [This American Life](http://www.thisamericanlife.org)
 * [Criminal](http://thisiscriminal.com)
+* [Mystery Show](https://en.wikipedia.org/wiki/Mystery_Show)
 
 #### Internet
 * [Reply All](http://www.replyall.limo)
