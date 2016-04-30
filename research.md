@@ -21,6 +21,7 @@ I think there's a few lean approaches here:
 * [Another iTunes RSS Feed Generator](http://jsfiddle.net/bcmoney/g47znL4b/)
 * [Get Latest Podcast from iTunes Store (stack overflow)](http://stackoverflow.com/questions/2816881/get-the-latest-podcasts-from-itunes-store-with-link-by-rss-json-or-something)
 * [Audio Search](https://www.audiosear.ch/developer)
+* [Podcast List](http://gpoddernet.readthedocs.io/en/latest/api/reference/podcastlists.html)
 
 
 ## Content
