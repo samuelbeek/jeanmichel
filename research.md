@@ -9,33 +9,44 @@ I thin the first version of this product should be an iOS app that plays the aud
 ## How to do the backend
 I think there's a few lean approaches here:
 * Scrape certain reddit threads for audio/podcast links
-* Create a soundcloud account that follows these podcasts, load that data into the app (more of a hack, but hey, we're talking lean here)
+* Create a SoundCloud account that follows these podcasts, load that data into the app (more of a hack, but hey, we're talking lean here)
 * Work with RSS and scrape links there
+
+#### Resources
+* [Feed Wrangler](https://feedwrangler.net)
+* [Digital Podcast API](http://api.digitalpodcast.com)
+* [Extract Feed URL of podcasts](http://itunes.so-nik.com)
+* [Podcast Parser](https://podcastparser.readthedocs.io/en/latest/)
+* [iTunes RSS Feed Generator](https://rss.itunes.apple.com/us/?urlDesc=)
+* [Another iTunes RSS Feed Generator](http://jsfiddle.net/bcmoney/g47znL4b/)
+* [Get Latest Podcast from iTunes Store (stack overflow)](http://stackoverflow.com/questions/2816881/get-the-latest-podcasts-from-itunes-store-with-link-by-rss-json-or-something)
+* [Audio Search](https://www.audiosear.ch/developer)
+
 
 ## Content
 I'm making a moderate list of podcasts to start with. I might wanna scrape Reddit or other websites.
 
-### Science podcasts
+#### Science podcasts
 * [Quicks and Quarks](http://www.cbc.ca/radio/quirks)
 * [RadioLab](http://www.radiolab.org)
 * [Science Friday](http://www.sciencefriday.com/path/audio/index.html)
 
-### Design Podcasts
+#### Design Podcasts
 maybe add art here too.
 * [99% Invisible](http://99pi.org)
 
-### Music
+#### Music
 * [Song Exploder](http://songexploder.net)
 
-### Stories
+#### Stories
 * [This American Life](http://www.thisamericanlife.org)
 * [Criminal](http://thisiscriminal.com)
 
-### Internet
+#### Internet
 * [Reply All](http://www.replyall.limo)
 * [Buzz Feed Internet Explorer](https://www.buzzfeed.com/iexplorer)
 
-### Tech Industry
+#### Tech Industry
 This is more a niche, but it doesn't matter, because this is a personal project.
 * [A16z](https://soundcloud.com/a16z)
 * [Exponent Podcast](http://exponent.fm)
