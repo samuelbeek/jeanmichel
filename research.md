@@ -1,4 +1,10 @@
-# Research 
+# Research
+
+## Purpose
+There's so many moments where you want to listen to radio/podcasts, but don't want to waste time and energy to decide what you want to listen to.
+
+## Client
+I thin the first version of this product should be an iOS app that plays the audio. It should be very easy to switch between subjects and it should play audio when you open the app.
 
 ## How to do the backend
 I think there's a few lean approaches here:
